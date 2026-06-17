@@ -2,9 +2,21 @@
   "meta": {
     "version": "1.0",
     "app": "DocVault",
-    "created": "2026-06-17T12:30:09.539Z"
+    "lastUpdated": "2026-06-17T12:30:37.794Z",
+    "totalPeople": 1,
+    "totalDocuments": 0
   },
   "categories": [],
-  "people": [],
+  "people": [
+    {
+      "id": "p1781699437790ftkc",
+      "name": "test",
+      "role": "",
+      "phone": "",
+      "notes": "",
+      "colorIdx": 0,
+      "createdAt": "2026-06-17T12:30:37.790Z"
+    }
+  ],
   "documents": []
 }
